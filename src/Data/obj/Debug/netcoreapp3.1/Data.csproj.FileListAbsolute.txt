@@ -1,0 +1,34 @@
+C:\Users\PC\Desktop\IntegratedSistems-cinema\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\PC\Desktop\IntegratedSistems-cinema\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\PC\Desktop\IntegratedSistems-cinema\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\PC\Desktop\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\PC\Desktop\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\PC\Desktop\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\PC\Desktop\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\Home laptop\Desktop\IS App\IntegratedSistems-cinema\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Home laptop\Desktop\IS App\IntegratedSistems-cinema\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Home laptop\Desktop\IS App\IntegratedSistems-cinema\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Home laptop\Desktop\IS App\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\Home laptop\Desktop\IS App\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Home laptop\Desktop\IS App\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Home laptop\Desktop\IS App\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Home laptop\Desktop\IS App\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Home laptop\Desktop\IS App\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\PC\Documents\Projects\.net\IntegratedSistems-cinema\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\PC\Documents\Projects\.net\IntegratedSistems-cinema\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\PC\Documents\Projects\.net\IntegratedSistems-cinema\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\PC\Documents\Projects\.net\IntegratedSistems-cinema\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\PC\Documents\Projects\.net\IntegratedSistems-cinema\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\PC\Documents\Projects\.net\IntegratedSistems-cinema\Data\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\PC\Documents\Projects\.net\IntegratedSistems-cinema\Data\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\PC\Documents\Projects\.net\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Projects\.net\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Projects\.net\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Projects\.net\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\PC\Documents\Projects\.net\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Projects\.net\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\PC\Documents\Projects\.net\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\PC\Documents\Projects\.net\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\PC\Documents\Projects\.net\IntegratedSistems-cinema\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete

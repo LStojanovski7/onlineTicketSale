@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Entities.Tickets>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@if (Model != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ValidTo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Price)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ValidTo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                        MKD
+                    </td>
+                    <td>
+                        @if (User.IsInRole("admin") && User.Identity.IsAuthenticated)
+                        {
+                            <a class="btn btn-warning" style="margin-left: 5px;margin-right: 5px;" asp-action="Edit" asp-route-id="@item.TicketID">Edit</a>
+                            <a class="btn btn-danger" style="margin-left: 5px;margin-right: 5px;" asp-action="Delete" asp-route-id="@item.TicketID">Delete</a>
+                        }
+                        <a class="btn btn-success" style="margin-left: 5px;margin-right: 5px;" asp-controller="Cart" asp-action="AddToCart" asp-route-id="@item.TicketID">Add to cart</a>
+                        <a class="btn btn-info" style="margin-left: 5px;margin-right: 5px;" asp-action="Details" asp-route-id="@item.TicketID">Details</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
